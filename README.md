@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saudahmd
+- 👋 Hi, I’m Ahmad Almuhammad
 - 👀 I’m interested in reactjs,nodejs,mongodb,html,css,php
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on ...
